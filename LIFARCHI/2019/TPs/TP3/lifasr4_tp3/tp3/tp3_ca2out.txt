@@ -1,0 +1,6 @@
+Taille de unsigned char : 1 octet(s)   
+Taille de signed char   : 1 octet(s) 
+
+(unsigned char) uc1 =  200, uc2 =   60, uc1+uc2 =    4 
+(signed char)   sc1 =  100, sc2 =   60, sc1+sc2 =  -96 
+(signed char)   sc1 = -100, sc2 =  -60, sc1+sc2 =   96 
